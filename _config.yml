@@ -1,5 +1,5 @@
 title: "Sam Wollenburg's Portfolio"
 description: "A collection of coding projects and technical experiences."
-remote_theme: pages-theme/merlot@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
